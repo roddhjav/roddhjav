@@ -1,16 +1,6 @@
 ### Hi there 👋 
 
-Just a french living in Ireland. Security Researcher at [The Collaboratory](https://www.collaboratory.ie).
-Ph.D from [University College Dublin](https://www.ucd.ie)
-
-Interested
-- User Privacy
-- Secret Management
-- System Security
-
-GPG Keys:
-- Email: `BBD1FEA3F345B8FC72E857705E86EC7730DED671`
-- Code: `06A26D531D56C42D66805049C5469996F0DF68EC`
+Just a french living in Ireland. Security Researcher at [The Collaboratory](https://www.collaboratory.ie). Ph.D from [University College Dublin](https://www.ucd.ie). My area of work includes **user privacy**, **secret management** and **system Security**.
 
 Generally you can find me on many places as *roddhjav*.
 
