@@ -2,8 +2,7 @@
 
 Just a french living in Ireland. Security Researcher at [The Collaboratory](https://www.collaboratory.ie). Ph.D from [University College Dublin](https://www.ucd.ie). My area of work includes **user privacy**, **secret management** and **system Security**.
 
-Generally you can find me on many places as *roddhjav*.
-
+Generally you can find me on many places as *roddhjav*. If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/roddhjav).
 
 ### My projects
 
