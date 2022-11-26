@@ -2,7 +2,10 @@
 
 Just a French living in Ireland. Security researcher at [The Collaboratory](https://www.collaboratory.ie). Ph.D from [University College Dublin](https://www.ucd.ie). My area of work includes **user privacy**, **secret management** and **system security**.
 
-Generally you can find me on many places as *roddhjav*. If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/roddhjav).
+If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/roddhjav).
+
+Generally you can find me on many places as *roddhjav*: <a href="https://mamot.fr/@roddhjav" rel="me">Mastodon</a> | [Twitter] | [Gitlab] | [Keybase]
+
 
 ### My projects
 
@@ -19,6 +22,10 @@ Generally you can find me on many places as *roddhjav*. If you like my work and 
 - [apparmor.d]: Full set of AppArmor profiles **(~ 1400 profiles)**. *(go)*
 
 
+
+[Twitter]: https://twitter.com/roddhjav
+[Gitlab]: https://gitlab.com/roddhjav
+[Keybase]: https://keybase.io/roddhjav
 
 [apparmor.d]: https://github.com/roddhjav/apparmor.d
 [pass-audit]: https://github.com/roddhjav/pass-audit
