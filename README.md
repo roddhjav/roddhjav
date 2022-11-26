@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Just a french living in Ireland. Security Researcher at [The Collaboratory](https://www.collaboratory.ie). Ph.D from [University College Dublin](https://www.ucd.ie). My area of work includes **user privacy**, **secret management** and **system Security**.
+Just a French living in Ireland. Security researcher at [The Collaboratory](https://www.collaboratory.ie). Ph.D from [University College Dublin](https://www.ucd.ie). My area of work includes **user privacy**, **secret management** and **system security**.
 
 Generally you can find me on many places as *roddhjav*. If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/roddhjav).
 
@@ -9,8 +9,8 @@ Generally you can find me on many places as *roddhjav*. If you like my work and 
 #### Pass
 
 - [pass-audit]: A pass extension for **auditing** your password repository. *(python)*
-- [pass-import]: A pass extension for **importing** data from most of the existing password manager. *(python)*
-- [pass-tomb]: A pass extension that helps you to keep the whole tree of password encrypted inside a **Tomb**. *(bash)*
+- [pass-import]: A pass extension for **importing** data from most existing password managers. *(python)*
+- [pass-tomb]: A pass extension that helps you keep the whole tree of passwords encrypted inside a **Tomb**. *(bash)*
 - [pass-update]: A pass extension that provides an easy flow for **updating** passwords. *(bash)*
 
 
