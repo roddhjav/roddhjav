@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-System Engineer @linagora. Ph.D from [University College Dublin](https://www.ucd.ie). My area of work includes **user privacy**, **secret management** and **system security**.
+System Engineer [@linagora](https://github.com/linagora). Ph.D from [University College Dublin](https://www.ucd.ie). My area of work includes **user privacy**, **secret management** and **system security**.
 
 If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/roddhjav).
 
