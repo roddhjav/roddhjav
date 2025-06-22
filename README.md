@@ -20,7 +20,7 @@ Generally you can find me on many places as *roddhjav*: <a href="https://mamot.f
 #### System Security
 
 - [apparmor.d]: Full set of AppArmor profiles **(~ 1400 profiles)**. *(go)*
-
+- [play]: Free root access on an Apparmor machine! *(ansible)*
 
 
 [Twitter]: https://twitter.com/roddhjav
@@ -28,6 +28,7 @@ Generally you can find me on many places as *roddhjav*: <a href="https://mamot.f
 [Keybase]: https://keybase.io/roddhjav
 
 [apparmor.d]: https://github.com/roddhjav/apparmor.d
+[play]: https://github.com/roddhjav/play
 [pass-audit]: https://github.com/roddhjav/pass-audit
 [pass-import]: https://github.com/roddhjav/pass-import
 [pass-tomb]: https://github.com/roddhjav/pass-tomb
